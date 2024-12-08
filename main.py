@@ -69,23 +69,25 @@ def make_request(url, headers, cookies):
 clear_screen()
 
 logo ="""
- \033[1;36m__  __ _____         _         _____ _  __
-  ______   __                     
- /      \ |  \                    
-|  $$$$$$\| $$  ______   __    __ 
-| $$__| $$| $$ /      \ |  \  /  \
-| $$    $$| $$|  $$$$$$\ \$$\/  $$
-| $$$$$$$$| $$| $$    $$  >$$  $$ 
-| $$  | $$| $$| $$$$$$$$ /  $$$$\ 
-| $$  | $$| $$ \$$     \|  $$ \$$\
- \$$   \$$ \$$  \$$$$$$$ \$$   \$$
-                                  
-                                  
-                                  
- 
-                                    
-                                         
-
+ \033[1;36m
+                                                                                                    
+                                                                                                    
+               AAA               LLLLLLLLLLL             EEEEEEEEEEEEEEEEEEEEEEXXXXXXX       XXXXXXX
+              A:::A              L:::::::::L             E::::::::::::::::::::EX:::::X       X:::::X
+             A:::::A             L:::::::::L             E::::::::::::::::::::EX:::::X       X:::::X
+            A:::::::A            LL:::::::LL             EE::::::EEEEEEEEE::::EX::::::X     X::::::X
+           A:::::::::A             L:::::L                 E:::::E       EEEEEEXXX:::::X   X:::::XXX
+          A:::::A:::::A            L:::::L                 E:::::E                X:::::X X:::::X   
+         A:::::A A:::::A           L:::::L                 E::::::EEEEEEEEEE       X:::::X:::::X    
+        A:::::A   A:::::A          L:::::L                 E:::::::::::::::E        X:::::::::X     
+       A:::::A     A:::::A         L:::::L                 E:::::::::::::::E        X:::::::::X     
+      A:::::AAAAAAAAA:::::A        L:::::L                 E::::::EEEEEEEEEE       X:::::X:::::X    
+     A:::::::::::::::::::::A       L:::::L                 E:::::E                X:::::X X:::::X   
+    A:::::AAAAAAAAAAAAA:::::A      L:::::L         LLLLLL  E:::::E       EEEEEEXXX:::::X   X:::::XXX
+   A:::::A             A:::::A   LL:::::::LLLLLLLLL:::::LEE::::::EEEEEEEE:::::EX::::::X     X::::::X
+  A:::::A               A:::::A  L::::::::::::::::::::::LE::::::::::::::::::::EX:::::X       X:::::X
+ A:::::A                 A:::::A L::::::::::::::::::::::LE::::::::::::::::::::EX:::::X       X:::::X
+AAAAAAA                   AAAAAAALLLLLLLLLLLLLLLLLLLLLLLLEEEEEEEEEEEEEEEEEEEEEEXXXXXXX       XXXXXXX                                                              
 \x1b[1;33m################################################################
 \033[1;34mFACEBOOK: ALEX 3:) : BADMASH
 \033[1;35mGITHUB: ALEX BADSHA
@@ -93,7 +95,6 @@ logo ="""
 \033[1;33mWHATSAPP: +9779824204204
 \033[1;36m<<<<<<<<<<<<<ALEX>>>>>>>>>>>>>>>>>>>>>>>>>
 \x1b[1;34m################################################################
-
 """
 
 print(logo)
